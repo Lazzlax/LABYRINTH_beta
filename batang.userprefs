@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\skripRetryButton.cs">
+    <Files>
+      <File FileName="Assets\script\skriprottMotionMove.cs" Line="37" Column="1" />
+      <File FileName="Assets\script\skripJoyInput.cs" Line="28" Column="3" />
+      <File FileName="Assets\script\skripPlayerLogic.cs" Line="46" Column="1" />
+      <File FileName="Assets\script\skripRetryButton.cs" Line="6" Column="8" />
+      <File FileName="Assets\script\skripJebakan.cs" Line="29" Column="2" />
+      <File FileName="Assets\script\skripLoadScene.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
